@@ -50,3 +50,4 @@ Mind Screen was created by Haythem Yahyaoui, runner-up of season 16 of Stars of 
 - Google Play: https://play.google.com/store/apps/details?id=com.mindscreen.app
 - Privacy policy: https://mind-screen.com/privacy
 - LinkedIn: https://www.linkedin.com/company/mind-screen
+- X : https://x.com/mindscreenapp
