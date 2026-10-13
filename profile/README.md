@@ -40,6 +40,24 @@ The app, not the AI model, owns the questionnaire: questions live in script file
 
 Built with Flutter, Dart, Firebase Auth and Supabase Edge Functions. The source code of the app is not public; this organization hosts the project's public information.
 
+## Frequently asked questions
+
+**Is Mind Screen a diagnostic tool?**
+No. Mind Screen is a self-awareness aid, not a diagnostic tool. A result never replaces the opinion of a qualified mental health professional.
+
+**Which questionnaires does it include?**
+Eleven standardized questionnaires, including the PHQ-9 for depression and the GAD-7 for anxiety. Four are free: depression, anxiety, loneliness and burnout.
+
+**Does the AI decide my score?**
+No. Questions are delivered word for word, and scores are computed by fixed rules, not by the AI model.
+
+**Where is my history stored?**
+Your test history is stored on your device. There are no ads, and you can delete your account from inside the app.
+
+**Who is it for, and on which devices?**
+Adults 18 and over. Mind Screen is available on Android; iOS is planned.
+
+
 ## Team
 
 Mind Screen was created by Haythem Yahyaoui, runner-up of season 16 of Stars of Science, and developed by Ahmed Znouda.
@@ -50,3 +68,4 @@ Mind Screen was created by Haythem Yahyaoui, runner-up of season 16 of Stars of 
 - Google Play: https://play.google.com/store/apps/details?id=com.mindscreen.app
 - Privacy policy: https://mind-screen.com/privacy
 - LinkedIn: https://www.linkedin.com/company/mind-screen
+- X : https://x.com/mindscreenapp
